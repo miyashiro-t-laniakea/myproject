@@ -126,3 +126,21 @@ db.sqlite3
 # Python cache files
 __pycache__/
 *.py[cod]
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# macOS
+.DS_Store
+
+# Frontend (if needed)
+frontend/node_modules/
+frontend/.env
+frontend/build/
